@@ -1,5 +1,5 @@
 {
-  "name": "elasticsearch/xpack",
+  "name": "hectorqin/elasticsearch-xpack",
   "description": "XPack namespace for Elasticsearch-PHP",
   "keywords": ["search","client", "elasticsearch", "xpack"],
   "type": "library",
