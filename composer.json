@@ -3,7 +3,7 @@
   "description": "XPack namespace for Elasticsearch-PHP",
   "keywords": ["search","client", "elasticsearch", "xpack"],
   "type": "library",
-  "license": "Apache 2",
+  "license": "Apache-2.0",
   "authors": [
     {
       "name": "Zachary Tong"
